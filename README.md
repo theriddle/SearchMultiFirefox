@@ -1,2 +1,2 @@
 # SearchMultiFirefox
-search in al open tab adn then jump there
+search in all open tab adn then jump there
